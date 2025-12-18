@@ -44,4 +44,5 @@ gitGraph
    checkout develop
    commit id: "README + rename + delete"
    checkout main
-   merge develop```
+   merge develop
+```
