@@ -33,7 +33,7 @@ git rm file3	Supprime un fichier suivi par Git
 git status	Affiche l’état du dépôt
 
 
-```mermaid
+``` mermaid
 gitGraph
    commit id: "Initial commit"
    branch develop
